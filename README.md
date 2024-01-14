@@ -1,4 +1,4 @@
-# CS-Project-2017-2018
+# Project-2017-2018
 A junior college project based on C++ 98 version.
 
 The project has been written in 1998 C++ standards and might not compile and run in compilers developed after 1998.
